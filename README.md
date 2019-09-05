@@ -1,17 +1,19 @@
 # PythonForEveryone
 Goals </br>
-  To successfully program using the Python language using the PythonForEveryone program </br>
+  To successfully program a math program using the SAGE tutorial presneted by SDSU </br>
 Boundaries / Scope </br>
-  Complete Course 1 Programming for Everybody (Getting Started with Python) </br>
-  Complete Course 2 Python Data Structures </br>
+  Attempting to complete the entire course by the time the project is due </br>
 Success criteria </br>
-  My own application for data retrieval and processing. </br>
+ A simple math program, but eventually a physics program </br>
   Weekly work log with screenshots and summaries to demonstrate activity. </br>
 Constraints </br>
-  Using the free version of the program does not allow me to earn the certificate </br>
+  New to sage </br>
 Assumptions </br>
   The courses will be available for the duration of the semester.
   I have all required software.
-  I can skip the Installing and Using Python units.
-Stakeholders </br>
+ Stakeholders </br>
+ Myself </br>
+ Prof. Vaneslow </br>
 Timelines </br>
+Week 1 Complete Problem statement </br>
+Week 2 Comeplete up to getting started </br>
