@@ -27,7 +27,6 @@ Week 9 Watch and practice subjects of videos 36-40 </br>
 Week 10 Watch and practice subjects of videos 41-44 </br>
 Throughout the course, apply the knowledge gained from the videos to my Integration project. </br>
 </br>
-# Week 1 </br>
 # What is Python? </br>
     Python is an interpreted, high-level, general-purpose programming language.Created by
     Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code
