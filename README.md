@@ -37,7 +37,8 @@ Throughout the course, apply the knowledge gained from the videos to my Integrat
 # Print Statement </br>
     Print statements display output to your console.
 A quick example of a print statement. </br>
-    Example: print("Hello World!") </br>
+    Example: ![image](https://user-images.githubusercontent.com/54412579/66274485-4c324700-e84d-11e9-832f-7fe5191853f0.png)
+ </br>
     This print statement will output: Hello World! </br>
     Always remember that single quotes '', or double quotes "" can be used to enclose your strings. </br>
 </br>
