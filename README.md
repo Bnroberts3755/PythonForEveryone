@@ -69,6 +69,7 @@ Printing a blank line. </br>
   Example: ![image](https://user-images.githubusercontent.com/54412579/66275833-8ce48d00-e85a-11e9-91ba-228a5d4b49a4.png) output: ![image](https://user-images.githubusercontent.com/54412579/66275839-9ec63000-e85a-11e9-802e-a2feedce04af.png) </br>
   Each function alters how the variable is output depending on what you tell it to do. You can see the outputs corralate with the ".xxx" portion of the code. </br>
   Putting all of that together, while using functions for formating, will allow you to do some prety neat stuff. </br>
-  Example: ![image](https://user-images.githubusercontent.com/54412579/66275989-36784e00-e85c-11e9-8e87-9bf2b79479ca.png) output: ![image](https://user-images.githubusercontent.com/54412579/66275996-45f79700-e85c-11e9-9fa6-c2138691ca46.png) </br>
+  Example: ![image](https://user-images.githubusercontent.com/54412579/66275989-36784e00-e85c-11e9-8e87-9bf2b79479ca.png) </br>
+  output: ![image](https://user-images.githubusercontent.com/54412579/66275996-45f79700-e85c-11e9-9fa6-c2138691ca46.png) </br>
   You can see how adding the function of .capitalize will force format the user input for firstName, regardless of how they enter it, to the formatted version with the first letter capitalized. </br>
 
