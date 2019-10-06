@@ -54,4 +54,7 @@ Printing a blank line. </br>
   Also, you may put a \n in the midle of a single string, to essentially line break that string. </br>
   Example: ![image](https://user-images.githubusercontent.com/54412579/66274596-2e191680-e84e-11e9-8d97-78ce98231dbd.png)
   You should get something along the lines of ![image](https://user-images.githubusercontent.com/54412579/66274604-425d1380-e84e-11e9-8b97-3812f478f167.png) </br>
-  
+# Comments </br>
+  Comments are a great way to mark down what your code was trying to do at a certain point, in case you forget. </br>
+  Example: ![image](https://user-images.githubusercontent.com/54412579/66275532-8ef91c80-e857-11e9-9d82-b17f56855c1b.png) </br>
+  Comments will not show in the output for your program, and therefore are a handy way to leave yourself notes about your code.
