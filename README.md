@@ -58,3 +58,10 @@ Printing a blank line. </br>
   Comments are a great way to mark down what your code was trying to do at a certain point, in case you forget. By starting a line of code with a "#," it will initiate a comment, and will not execute that line. </br>
   Example: ![image](https://user-images.githubusercontent.com/54412579/66275532-8ef91c80-e857-11e9-9d82-b17f56855c1b.png) </br>
   Comments will not show in the output for your program, and therefore are a handy way to leave yourself notes about your code.
+# Working with Strings </br>
+  Strings can be stored in variables, which are essentially placeholders within your code, that will output whatever the value is you have assigned to that variable. </br>
+  Example: ![image](https://user-images.githubusercontent.com/54412579/66275678-05e2e500-e859-11e9-8319-69de7f02e6f6.png) </br>
+  In the image, I have set up the variable, firstName, and stored a string within the variable, the string being "Brandon," in order to allow me to use firstName later in the code for various purpose. 
+  One such purpose, combining strings. Strings can be combined using the "+" symbol, allowing you to put multiple variables together in a single statement. </br>
+  Example: ![image](https://user-images.githubusercontent.com/54412579/66275730-902b4900-e859-11e9-8731-c6531f8bd497.png) </br>
+  You can see the strategic use of " " added within the final line in order to create space between each variable, otherwise, you would just end up with the two varibables and no space between them.
