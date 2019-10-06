@@ -55,6 +55,6 @@ Printing a blank line. </br>
   Example: ![image](https://user-images.githubusercontent.com/54412579/66274596-2e191680-e84e-11e9-8d97-78ce98231dbd.png)
   You should get something along the lines of ![image](https://user-images.githubusercontent.com/54412579/66274604-425d1380-e84e-11e9-8b97-3812f478f167.png) </br>
 # Comments </br>
-  Comments are a great way to mark down what your code was trying to do at a certain point, in case you forget. </br>
+  Comments are a great way to mark down what your code was trying to do at a certain point, in case you forget. By starting a line of code with a "#," it will initiate a comment, and will not execute that line. </br>
   Example: ![image](https://user-images.githubusercontent.com/54412579/66275532-8ef91c80-e857-11e9-9d82-b17f56855c1b.png) </br>
   Comments will not show in the output for your program, and therefore are a handy way to leave yourself notes about your code.
