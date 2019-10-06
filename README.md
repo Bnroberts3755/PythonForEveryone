@@ -1,4 +1,4 @@
-# SageProject
+# PythonForEveryone
 Goals </br>
   To successfully program a math program using the SAGE tutorial presneted by SDSU </br>
 Boundaries / Scope </br>
