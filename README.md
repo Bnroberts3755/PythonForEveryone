@@ -49,6 +49,6 @@ A quick example of a print statement. </br>
     will output what the user enters. </br>
 Printing a blank line. </br>
   To print a blank line between print statements for your output, there is a simple print statement you </br>
-  can use.
-  Example: print()
+  can use. </br>
+  Example: print() </br>
   This print statement, when placed between lines of output, will essentially create a blank line of text in your output statement, creating space.
