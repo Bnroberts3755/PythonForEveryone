@@ -37,7 +37,19 @@ Throughout the course, apply the knowledge gained from the videos to my Integrat
 # Print Statement </br>
     Print statements display output to your console.
 A quick example of a print statement. </br>
-    print("Hello World!") </br>
+    Example: print("Hello World!") </br>
     This print statement will output: Hello World! </br>
     Always remember that single quotes '', or double quotes "" can be used to enclose your strings. </br>
-
+</br>
+    Sometimes, your program will require your user to input something, like their name, and the </br>
+    program will output what the user enters. </br>
+    Example: name = input("Please Enter your name: ") </br>
+             print(name) </br>
+    These two lines of code will prompt the user with 'Please Enter your name: ', and the print statement </br>
+    will output what the user enters. </br>
+Printing a blank line. </br>
+  To print a blank line between print statements for your output, there is a simple print statement you </br>
+  can use.
+  Example: print()
+  This print statement, when placed between lines of output, will essentially create a blank line of text </br>
+  in your output statement, creating space.
