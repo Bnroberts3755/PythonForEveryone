@@ -66,4 +66,5 @@ Printing a blank line. </br>
   Example: ![image](https://user-images.githubusercontent.com/54412579/66275730-902b4900-e859-11e9-8731-c6531f8bd497.png) </br>
   You can see the strategic use of " " added within the final line in order to create space between each variable, otherwise, you would just end up with the two varibables and no space between them.
   Now, there are some interesting things you can do with functions in order to alter a string literal that may be stored within a variable. </br>
-  Example: ![image](https://user-images.githubusercontent.com/54412579/66275833-8ce48d00-e85a-11e9-91ba-228a5d4b49a4.png) output: ![image](https://user-images.githubusercontent.com/54412579/66275839-9ec63000-e85a-11e9-802e-a2feedce04af.png)
+  Example: ![image](https://user-images.githubusercontent.com/54412579/66275833-8ce48d00-e85a-11e9-91ba-228a5d4b49a4.png) output: ![image](https://user-images.githubusercontent.com/54412579/66275839-9ec63000-e85a-11e9-802e-a2feedce04af.png) </br>
+  Each function alters how the variable is output depending on what you tell it to do. You can see the outputs corralate with the ".xxx" portion of the code. </br>
