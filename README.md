@@ -44,12 +44,11 @@ A quick example of a print statement. </br>
 </br>
     Sometimes, your program will require your user to input something, like their name, and the </br>
     program will output what the user enters. </br>
-    Example: name = input("Please Enter your name: ") </br>
-             print(name) </br>
+    Example: ![image](https://user-images.githubusercontent.com/54412579/66274529-b5b25580-e84d-11e9-8759-956e2742c56d.png)
     These two lines of code will prompt the user with 'Please Enter your name: ', and the print statement </br>
     will output what the user enters. </br>
 Printing a blank line. </br>
   To print a blank line between print statements for your output, there is a simple print statement you </br>
   can use. </br>
-  Example: print() </br>
+  Example: ![image](https://user-images.githubusercontent.com/54412579/66274538-d37fba80-e84d-11e9-8f7a-05843c8b4c62.png) </br>
   This print statement, when placed between lines of output, will essentially create a blank line of text in your output statement, creating space.
