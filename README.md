@@ -52,3 +52,7 @@ Printing a blank line. </br>
   can use. </br>
   Example: ![image](https://user-images.githubusercontent.com/54412579/66274538-d37fba80-e84d-11e9-8f7a-05843c8b4c62.png) </br>
   This print statement, when placed between lines of output, will essentially create a blank line of text in your output statement, creating space.
+  Also, you may put a \n in the midle of a single string, to essentially line break that string. </br>
+  Example: ![image](https://user-images.githubusercontent.com/54412579/66274596-2e191680-e84e-11e9-8d97-78ce98231dbd.png)
+  You should get something along the lines of ![image](https://user-images.githubusercontent.com/54412579/66274604-425d1380-e84e-11e9-8b97-3812f478f167.png) </br>
+  
