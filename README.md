@@ -73,6 +73,6 @@ Printing a blank line. </br>
   You can see how adding the function of .capitalize will force format the user input for firstName, regardless of how they enter it, to the formatted version with the first letter capitalized. </br>
 Formatting the strings </br>
 Ex: ![string formatting](https://user-images.githubusercontent.com/54412579/68091062-319dbe80-fe49-11e9-99d0-cde3213e4d7e.PNG) </br>
-Disregard errors, I did not specify firstName and lastName for the example. But these examples are each different ways to create the same output with the use of placeholders, instead of having to contiuously use the + symbol to add together strings.
-Output Ex: ![string format output](https://user-images.githubusercontent.com/54412579/68091135-fbad0a00-fe49-11e9-8588-e07623d207d3.PNG) 
+Disregard errors, I did not specify firstName and lastName for the example. But these examples are each different ways to create the same output with the use of placeholders, instead of having to contiuously use the + symbol to add together strings. </br>
+Output Ex: ![string format output](https://user-images.githubusercontent.com/54412579/68091135-fbad0a00-fe49-11e9-8588-e07623d207d3.PNG) </br> 
 As you can see from the example, each format would produce this same output, regardless of how you decide to format the string.
