@@ -115,3 +115,33 @@ Ex: ![birthday](https://user-images.githubusercontent.com/54412579/68099057-608a
 Output Ex: ![birthday output](https://user-images.githubusercontent.com/54412579/68099071-739d2380-fe8e-11e9-9b8f-087f2fbccc34.PNG)
 </br>
 You can do the samethings here as you previously did with the current day by importing the "timedelta" function. </br>
+# Error Handling </br>
+Error handling is when an uncontrable factor, like a server goes down, effects the output of your code. Debugging on the other hand, is when you know something is wrong with your code, like incorrect outputs, or crashes. </br>
+Errors come in three different types: </br>
+Syntax errors: Essentially, the code won't run at all. </br>
+Ex: ![syntax](https://user-images.githubusercontent.com/54412579/68099315-d642ef00-fe8f-11e9-9495-b79563e01a11.PNG) </br>
+Because you are missing the colon at the end of that line, you get this syntax error: </br>
+![syntax output](https://user-images.githubusercontent.com/54412579/68099327-ec50af80-fe8f-11e9-97a2-09356c1f32f8.PNG) </br>
+Runtime errors: The code will run, but something is going to go wrong, and the code will blow up. </br>
+Ex: ![runtime](https://user-images.githubusercontent.com/54412579/68099422-76991380-fe90-11e9-86e1-3eaf672c9efb.PNG) </br>
+Here, python will just tell you that the coder is trying to divide by zero, which we all know is zero, but you will get an error. These errors are almost guarunteed to be in your code, and not the framework. </br>
+Output Ex: ![runtime output](https://user-images.githubusercontent.com/54412579/68099443-97616900-fe90-11e9-8f86-f893a4f971b9.PNG) </br>
+Logic errors: Everything runs just fine, but you don't get the right response, or a response at all. </br>
+Ex: ![logic](https://user-images.githubusercontent.com/54412579/68099705-d0e6a400-fe91-11e9-8cc8-9d5c5578be65.PNG) </br>
+You were expecting to get the output you were looking for, but back in your code, you flipped the boolean expression. YOur code still runs, but you get no output because the parameters for an output weren't met, and no errors were committed. </br>
+# Handling Conditions </br>
+Conditions occur when your code needs to meet a condition. One great way to handle this, is with an "if" statement. Let's take taxes for example. </br>
+Ex: ![conditions](https://user-images.githubusercontent.com/54412579/68099844-c973ca80-fe92-11e9-8623-342ac2c746e0.PNG) </br>
+You use the "if" statement combined with boolean expressions for when you want your code to do something IF a certain condition is met. If those conditions are met, everything indented under the "if" statement will be run. Some of these conditional boolean expressions are: </br>
+> for Greater Than </br>
+< for Less Than </br>
+>= for Greater than or equal to </br>
+<= for Less than or equal to </br>
+== for Is equal to </br>
+!= for Is not equal to </br>
+You can set a default action to run IF your "if" statement's conditions are not met, and you do that with an "else" statement. </br>
+Ex: ![conditions else](https://user-images.githubusercontent.com/54412579/68099984-89611780-fe93-11e9-9a1a-ef0025da32bb.PNG) </br>
+As stated, if input does not meet the conditions of the "if" statement, the "else" statement will run. </br>
+A cleaner way to write this code, so as to not be redundant, would look something like this: </br>
+Ex: ![conditions clean](https://user-images.githubusercontent.com/54412579/68100069-f07ecc00-fe93-11e9-9f5e-6e43f64cffc7.PNG) </br>
+The code still checks for the conditions of the "if" statement, and if those aren't met, moves on to the "else" statement, then prints the output of whichever part of the code was ran. </br>
