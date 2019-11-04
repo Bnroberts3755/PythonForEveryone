@@ -86,4 +86,27 @@ Ex: ![input int](https://user-images.githubusercontent.com/54412579/68098190-528
 If you did everything correct, you should get this: </br>
 Ex: ![input int print](https://user-images.githubusercontent.com/54412579/68098208-6893c480-fe89-11e9-9c14-a1d139dbe34a.PNG) </br>
 The int call tells the code to output the integer, and all float does is allow it to output a decimal, if there is one. </br>
-
+Python also allows you to do math. Here is a short list of different math symbols and what they do in python: </br>
++ will do addition </br>
+- will do subtraction </br>
+* will do multiplication </br>
+/ will do division </br>
+** will multiply to an exponent </br>
+Here is an example of what this might look like in code. </br>
+Ex: ![math symbols](https://user-images.githubusercontent.com/54412579/68098306-f5d71900-fe89-11e9-95e1-b89af21c824d.PNG) </br>
+The output Ex: ![math symbols print](https://user-images.githubusercontent.com/54412579/68098316-025b7180-fe8a-11e9-9e8d-b97b21113209.PNG) </br>
+Now what if you want more than just numbers in your print statement. It works fairly similar to concatenating two strings together, but you have to remember to call the int function into the output, or you will get an error. </br>
+Ex: ![days](https://user-images.githubusercontent.com/54412579/68098362-43ec1c80-fe8a-11e9-8ca1-ddf028f5027e.PNG) </br>
+Output Ex: ![days print](https://user-images.githubusercontent.com/54412579/68098369-4d758480-fe8a-11e9-9615-228fa7186a91.PNG) </br>
+# The Dates </br>
+Dates can be difficult, but one great thing about python, is it allows you to call from a library, which we will get to later, in order for you to use premade functions to code what you need. Like calling from the "datetime" library, and using the "now" function to get the current date and time. </br>
+Ex: ![date](https://user-images.githubusercontent.com/54412579/68098510-19e72a00-fe8b-11e9-8729-bd33b2015577.PNG) </br>
+Output Ex: ![date output](https://user-images.githubusercontent.com/54412579/68098524-28354600-fe8b-11e9-9903-1416dfd8cd1a.PNG) </br>
+Now maybe you want to manipulate the output of the date, to give you, say, one day ago. Another function within the "datetime" library, called "timedelta," allows you to define a period of time, say one day, and then do string math to get your desired date. </br>
+Ex: ![datetime](https://user-images.githubusercontent.com/54412579/68098711-55362880-fe8c-11e9-8b72-c500e6c22369.PNG) </br>
+When using timedelta to define days as 1, it allows you to do something like subtract one day from today, and output yesterday. </br>
+Output Ex: ![datetime output](https://user-images.githubusercontent.com/54412579/68098750-8f072f00-fe8c-11e9-8515-ddff25d5bb01.PNG) </br>
+You can also tell python just to display the day, month, year, hour, minute, or even second. That looks like this: </br>
+Ex: ![date format](https://user-images.githubusercontent.com/54412579/68098855-24a2be80-fe8d-11e9-9c89-9547485eeabb.PNG) </br>
+Output Ex: ![date format output](https://user-images.githubusercontent.com/54412579/68098861-2ff5ea00-fe8d-11e9-918d-409d9a2a00d7.PNG) </br>
+Just place .hour, .minute, or .second in the place of month day or year to get the desired output. </br>
