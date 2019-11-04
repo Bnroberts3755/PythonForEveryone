@@ -132,13 +132,13 @@ You were expecting to get the output you were looking for, but back in your code
 # Handling Conditions </br>
 Conditions occur when your code needs to meet a condition. One great way to handle this, is with an "if" statement. Let's take taxes for example. </br>
 Ex: ![conditions](https://user-images.githubusercontent.com/54412579/68099844-c973ca80-fe92-11e9-8623-342ac2c746e0.PNG) </br>
-You use the "if" statement combined with boolean expressions for when you want your code to do something IF a certain condition is met. If those conditions are met, everything indented under the "if" statement will be run. Some of these conditional boolean expressions are: </br>
-The symbol >, for Greater Than </br>
-< for Less Than </br>
->= for Greater than or equal to </br>
-<= for Less than or equal to </br>
-== for Is equal to </br>
-!= for Is not equal to </br>
+You use the "if" statement combined with boolean expressions for when you want your code to do something IF a certain condition is met. If those conditions are met, everything indented under the "if" statement will be run. Some of these conditional boolean expressions are </br>
+The symbol >, for Greater than </br>
+The symbol <, for Less than </br>
+The symbol >=, for Greater than or equal to </br>
+The symbol <=, for Less than or equal to </br>
+The symbol ==, for Is equal to </br>
+The symbol !=, for Is not equal to </br>
 You can set a default action to run IF your "if" statement's conditions are not met, and you do that with an "else" statement. </br>
 Ex: ![conditions else](https://user-images.githubusercontent.com/54412579/68099984-89611780-fe93-11e9-9a1a-ef0025da32bb.PNG) </br>
 As stated, if input does not meet the conditions of the "if" statement, the "else" statement will run. </br>
