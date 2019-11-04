@@ -76,3 +76,14 @@ Ex: ![string formatting](https://user-images.githubusercontent.com/54412579/6809
 Disregard errors, I did not specify firstName and lastName for the example. But these examples are each different ways to create the same output with the use of placeholders, instead of having to contiuously use the + symbol to add together strings. </br>
 Output Ex: ![string format output](https://user-images.githubusercontent.com/54412579/68091135-fbad0a00-fe49-11e9-8588-e07623d207d3.PNG) </br> 
 As you can see from the example, each format would produce this same output, regardless of how you decide to format the string.
+# Numbers in your code? </br>
+When attempting to use numbers in your code, you can store the number, or integer, in a string like so. </br>
+Ex: ![pi](https://user-images.githubusercontent.com/54412579/68098082-b78d2a00-fe88-11e9-8eaf-4a540eb3c95f.PNG) </br>
+When you run the code and get an output, your output will be 3.14159, because you told the code to print pi, and told the code what pi was. </br>
+Now what if you want to tell someone to input a number? All you need to do is assign a name to your string, call the "input" function, and probably write a short print statement telling the user what to do, in case they don't know. Now, you can't just say </br>
+print(firstNum + secondNum), you will get exactly that, firstNumsecondNum. In your print statement, you want to tell the code to output the integer version of the string in that place, like this. </br>
+Ex: ![input int](https://user-images.githubusercontent.com/54412579/68098190-52860400-fe89-11e9-94a0-6b0126ec0efa.PNG) </br>
+If you did everything correct, you should get this: </br>
+Ex: ![input int print](https://user-images.githubusercontent.com/54412579/68098208-6893c480-fe89-11e9-9c14-a1d139dbe34a.PNG) </br>
+The int call tells the code to output the integer, and all float does is allow it to output a decimal, if there is one. </br>
+
