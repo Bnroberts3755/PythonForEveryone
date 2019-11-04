@@ -133,7 +133,7 @@ You were expecting to get the output you were looking for, but back in your code
 Conditions occur when your code needs to meet a condition. One great way to handle this, is with an "if" statement. Let's take taxes for example. </br>
 Ex: ![conditions](https://user-images.githubusercontent.com/54412579/68099844-c973ca80-fe92-11e9-8623-342ac2c746e0.PNG) </br>
 You use the "if" statement combined with boolean expressions for when you want your code to do something IF a certain condition is met. If those conditions are met, everything indented under the "if" statement will be run. Some of these conditional boolean expressions are: </br>
- The symbol >, for Greater Than </br>
+The symbol >, for Greater Than </br>
 < for Less Than </br>
 >= for Greater than or equal to </br>
 <= for Less than or equal to </br>
