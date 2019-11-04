@@ -110,3 +110,8 @@ You can also tell python just to display the day, month, year, hour, minute, or 
 Ex: ![date format](https://user-images.githubusercontent.com/54412579/68098855-24a2be80-fe8d-11e9-9c89-9547485eeabb.PNG) </br>
 Output Ex: ![date format output](https://user-images.githubusercontent.com/54412579/68098861-2ff5ea00-fe8d-11e9-918d-409d9a2a00d7.PNG) </br>
 Just place .hour, .minute, or .second in the place of month day or year to get the desired output. </br>
+Say you are receinving the date as a string through user input and need to convert it into a "datetime" object in order to properly display it. </br>
+Ex: ![birthday](https://user-images.githubusercontent.com/54412579/68099057-608a5380-fe8e-11e9-9104-abe2b80b5525.PNG) </br>
+Output Ex: ![birthday output](https://user-images.githubusercontent.com/54412579/68099071-739d2380-fe8e-11e9-9b8f-087f2fbccc34.PNG)
+</br>
+You can do the samethings here as you previously did with the current day by importing the "timedelta" function. </br>
